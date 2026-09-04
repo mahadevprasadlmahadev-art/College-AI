@@ -1,0 +1,2 @@
+# MITT College AI Assistant Dependencies
+gradio>=5.0.0
